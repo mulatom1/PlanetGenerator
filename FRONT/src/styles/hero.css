@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.hero__title  {
+  font-family: 'Anton', sans-serif;
+  font-size:8rem;
+  margin: 2rem 0rem;
+}
+
+.hero__subtitle {
+    font-size:1.8rem;
+    margin-bottom:3rem;
+}
+
+.hero__section {
+position: absolute;
+margin:10rem;
+z-index:10;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+}
+
+.btn-primary {
+  padding: 2rem 4rem;
+  border: 2px solid #fff;
+  text-align:center;
+  color:#fff;
+  font-size: 1.5rem;
+  font-weight:800;
+  background: #00b78b;
+}

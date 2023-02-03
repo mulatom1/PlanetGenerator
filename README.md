@@ -4,7 +4,12 @@
 
 We've built Planet Generator based on GAN model with an fastAPI endpoint on Azure Platform and React Web Application to serve the image.
 
-🪐  🌗 🌕 🌒 🌑
+### In this repo you can find:
+🪐 Raw Dataset
+🌗 React application (user front)
+🌕 link to the models
+🌒 
+🌑
 
 
 Some examples:

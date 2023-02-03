@@ -1,1 +1,1 @@
-# Visual generator of the new planet
+# Visual generator of new planet

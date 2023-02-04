@@ -10,7 +10,7 @@
 - API  (FASTAPI)
 - Presentation in PDF  
 - Jupyter Notebooks  (NOTEBOOKS)  
-- & Deployed model (PlanetGenerator_01_Deploy.ipynb)  
+- Deployed model (PlanetGenerator_01_Deploy.ipynb)  
 
 
 ### Additional links:  

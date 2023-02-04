@@ -9,4 +9,4 @@ npm run dev
 ```
 npm run build
 ```
-to build "dist" folder with rendered statice page website.
+to build "dist" folder with rendered static page website.

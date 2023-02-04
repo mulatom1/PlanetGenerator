@@ -12,7 +12,8 @@
 - Jupyter Notebooks & Deployed model (PlanetGenerator_01_Deploy.ipynb). 
 
 ### Additional links:  
-- [User Application](http://tomsoft1.pl)   
+- [User Application @ Netlify](https://planetgen001.netlify.app/)
+- [User Application @ w/ API endpoint] (http://tomsoft1.pl)   
 - [Timelapse video from GAN model](https://www.youtube.com/watch?v=6cA5EBKaYPA)  
 - [Timelapse video x16 images](https://www.youtube.com/watch?v=8uJJ34HcdXM)  
 

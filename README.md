@@ -1,15 +1,15 @@
 # PlanetGenerator
 ## Visual generator of a new planet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
-We've built Planet Generator based on **GAN model** with an **fastAPI endpoint** on Azure Platform and **React Web Application** to serve the image.  
+🪐 We've built Planet Generator based on **GAN model** with an **fastAPI endpoint** on Azure Platform and **React Web Application** to serve the image.  
 
 ### In this repo you can find:  
-🪐 Raw Dataset  
-🌗 React application (user front)  
-🌕 link to the model (results_064)   
-🌒 API  
-🌑 Presentation in PDF  
-🌞 Jupyter Nooteboks & Deployed model  
+- Raw Dataset  
+- React application (user front)  
+- link to the model (results_064)   
+- API  
+- Presentation in PDF  
+- Jupyter Nooteboks & Deployed model  
 
 ### Additional links:  
 - [User Application](http://tomsoft1.pl)   

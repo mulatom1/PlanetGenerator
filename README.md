@@ -3,14 +3,15 @@
 
 We've built Planet Generator based on **GAN model** with an **fastAPI endpoint** on Azure Platform and **React Web Application** to serve the image.  
 
-### In this repo you can find:
+### In this repo you can find:  
 🪐 Raw Dataset  
 🌗 React application (user front)  
-🌕 link to the models   
+🌕 link to the model (results_064)   
 🌒 API  
 🌑 Presentation in PDF  
+🌞 Jupyter Nooteboks & Deployed model  
 
-### Additional links: 
+### Additional links:  
 - [User Application](http://tomsoft1.pl)   
 - [Timelapse video from GAN model](https://www.youtube.com/watch?v=6cA5EBKaYPA)  
 - [Timelapse video x16 images](https://www.youtube.com/watch?v=8uJJ34HcdXM)  

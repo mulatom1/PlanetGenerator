@@ -17,7 +17,7 @@
 - [Timelapse video x16 images](https://www.youtube.com/watch?v=8uJJ34HcdXM)  
 
 
-Some examples:
+### Some examples (from 512px model_v2):
 
 <img src="https://raw.githubusercontent.com/mulatom1/PlanetGenerator/main/NOTEBOOKS/results_512_v2/images/S008_E020_IMG003.jpg" width="400">
 

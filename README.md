@@ -23,6 +23,10 @@ Videos from Generative Adversarial Network:
 - [Timelapse video x16 images](https://www.youtube.com/watch?v=8uJJ34HcdXM)  
 
 
+### Contributors
+- Piotr Pawlowski [LinkedIn](https://www.linkedin.com/in/ppawlowski7/), [Github](https://github.com/piotrpawlowski7)  
+- Tomasz Mularczyk [Github](https://github.com/mulatom1)  
+
 ### Some examples of generated outputs (from 512px model_v2):
 
 <img src="https://raw.githubusercontent.com/mulatom1/PlanetGenerator/main/NOTEBOOKS/results_512_v2/images/S008_E020_IMG003.jpg" width="400">

@@ -1,6 +1,5 @@
 # PlanetGenerator
-## Visual generator of new planet
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+## Visual generator of a new planet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
 We've built Planet Generator based on **GAN model** with an **fastAPI endpoint** on Azure Platform and **React Web Application** to serve the image.  
 

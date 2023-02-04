@@ -1,6 +1,12 @@
+###To install  & live server:  
 ```
 cd FRONT
 npm install
 npm run dev
-&& npm run build
 ```
+
+### or run:  
+```
+npm run build
+```
+to build "dist" folder with rendered statice page website.

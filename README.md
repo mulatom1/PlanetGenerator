@@ -25,4 +25,4 @@
 
 <img src="https://raw.githubusercontent.com/mulatom1/PlanetGenerator/main/NOTEBOOKS/results_512_v2/images/S008_E020_IMG007.jpg" width="400">
 
-<img src="https://raw.githubusercontent.com/mulatom1/PlanetGenerator/main/NOTEBOOKS/results_512_v2/images/S008_E020_IMG012.jpg" width="400">
+<img src="https://raw.githubusercontent.com/mulatom1/PlanetGenerator/main/NOTEBOOKS/results_512_v2/images/S008_E020_IMG015.jpg" width="400">

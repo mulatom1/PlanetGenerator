@@ -9,7 +9,7 @@
 - link to the model (results_064)   
 - API  
 - Presentation in PDF  
-- Jupyter Nooteboks & Deployed model  
+- Jupyter Notebooks & Deployed model (PlanetGenerator_01_Deploy.ipynb). 
 
 ### Additional links:  
 - [User Application](http://tomsoft1.pl)   

@@ -1,4 +1,4 @@
-###To install  & live server:  
+### To install  & live server:  
 ```
 cd FRONT
 npm install

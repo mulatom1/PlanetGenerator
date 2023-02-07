@@ -25,7 +25,7 @@ Videos from Generative Adversarial Network:
 
 ### Contributors
 - Piotr Pawlowski [LinkedIn](https://www.linkedin.com/in/ppawlowski7/), [Github](https://github.com/piotrpawlowski7)  
-- Tomasz Mularczyk [Github](https://github.com/mulatom1)  
+- Tomasz Mularczyk [LinkedIn](https://www.linkedin.com/in/tomasz-mularczyk-b744b5265/), [Github](https://github.com/mulatom1)  
 
 ### Some examples of generated outputs (from 512px model_v2):
 

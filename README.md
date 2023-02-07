@@ -16,7 +16,6 @@
 ### Additional links:  
 Application:
 - [User Application @ Netlify](https://planetgen001.netlify.app/)
-- [User Application @ w/ API endpoint](http://tomsoft1.pl)  
 
 Videos from Generative Adversarial Network:  
 - [Timelapse video from GAN model](https://www.youtube.com/watch?v=6cA5EBKaYPA)  
